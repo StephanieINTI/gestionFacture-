@@ -73,6 +73,7 @@
 		</dependency>
 		<!-- End of MySQL dependencies -->
 		<!-- JSP dependencies -->
+		<!-- JSP dependencies -->
 		<dependency>
 			<groupId>javax.servlet.jsp.jstl</groupId>
 			<artifactId>javax.servlet.jsp.jstl-api</artifactId>
